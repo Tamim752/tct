@@ -79,7 +79,7 @@ h3 {
     font-size: xx-large;
     text-align: left;
     background-position: center;
-    background-image: url("/img/2.jpg");
+    background-image: url("img/2.jpg");
     background-repeat: no-repeat;
     background-size: 130rem 130rem;
 }
